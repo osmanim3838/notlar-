@@ -1,8 +1,7 @@
 <?php
 // BURAYI KENDİ GITHUB RAW LİNKİN İLE DEĞİŞTİR
 // Örnek: GitHub'da dosyayı açıp "Raw" butonuna tıkladığında çıkan URL
-$github_raw_url = "https://raw.githubusercontent.com/SENIN_KULLANICI_ADIN/REPO_ADIN/main/notlar.md";
-
+$github_raw_url = "https://raw.githubusercontent.com/nisanuripek/php_ak-ll-notpayla-m-/refs/heads/main/notlarim.txt";
 // İçeriği GitHub'dan çek
 $icerik = @file_get_contents($github_raw_url);
 

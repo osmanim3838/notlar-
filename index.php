@@ -16,7 +16,7 @@
         <h1>Akıllı Not Paylaşım Sistemi</h1>
         <p>Hangi notları görüntülemek istersin?</p>
         
-        <a href="osman_notlar.php" class="btn">Benim GitHub Notlarım</a>
+        <a href="nisa_notlar.php" class="btn btn-friend">Nisa'nın GitHub Notları</a>
         <a href="arkadas_notlar.php" class="btn btn-friend">Arkadaşımın GitHub Notları</a>
     </div>
 </body>
